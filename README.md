@@ -1,13 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&&color=gradient&height=300&section=header&text=&fontSize=90)
-
-</br></br></br></br>
-
-<div style="text-align: center">
-<p>🌊</p>
-<p>안녕하세요,</p>
-<p> 백엔드 개발자, 나아가서 풀스택 개발자를 목표로 하는 박다솔입니다!</p>
-<p>✉ ds10x2@gmail.com</p>
-</div>
 
 </br></br></br></br></br></br></br></br></br>
 
