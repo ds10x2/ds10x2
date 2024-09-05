@@ -3,7 +3,7 @@
 
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:ds10x2@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ds10x2@gmail.com"/></a>&nbsp 
-    <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ds10x2/"/></a>
+    <a href="https://www.instagram.com/ds10x2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ds10x2/"/></a>
 </div>
 
 ## 🔎 Skill set
