@@ -58,6 +58,9 @@
 </div>
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ds10x2)](https://github.com/ds10x2/github-readme-stats)
+-->
+<!--
 **ds10x2/ds10x2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
