@@ -52,6 +52,11 @@
 </div>
 </div>
 
+## 🌠Algorithm
+<div align="center">
+   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wcidf3923" width="500rem" />
+</div>
+
 <!--
 **ds10x2/ds10x2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
