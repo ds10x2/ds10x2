@@ -3,7 +3,6 @@
 
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:ds10x2@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ds10x2@gmail.com"/></a>&nbsp 
-    <a href="https://www.instagram.com/ds10x2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ds10x2/"/></a>
 </div>
 
 ## 🔎 Skill set
@@ -16,6 +15,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
 </div>
+<br/>
 <p><strong>Backend</strong></p>
 <div>
        <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
@@ -27,12 +27,14 @@
        <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
        <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 </div>
+<br/>
 <p><strong>Database</strong></p>
 <div>
        <img src="https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white"> 
        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
        <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"> 
 </div>
+<br/>
 <p><strong>Infra/development</strong></p>
 <div>
        <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -41,7 +43,7 @@
        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 </div>
 </div>
-
+<br/>
 <p><strong>not main... but also I can use...</strong></p>
 <div>
        <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge">
