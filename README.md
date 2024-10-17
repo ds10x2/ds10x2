@@ -20,8 +20,6 @@
 <div>
        <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
        <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
-       <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
-       <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
        <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge"> 
        <img src="https://img.shields.io/badge/mybatis-000000?style=for-the-badge"> 
        <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
@@ -44,11 +42,10 @@
 </div>
 </div>
 <br/>
-<p><strong>not main... but also I can use...</strong></p>
+<p><strong>not main...</strong></p>
 <div>
        <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge">
         <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> 
-        <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
        <img src="https://img.shields.io/badge/opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
        <img src="https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
 </div>
