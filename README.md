@@ -42,7 +42,7 @@
 </div>
 </div>
 <br/>
-<p><strong>not main...</strong></p>
+<p><strong>etc</strong></p>
 <div>
        <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge">
         <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> 
