@@ -1,13 +1,15 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7FC8EE&height=150&section=header" />
 
 ## 📞 Contact
 
-<div style="display:flex; flex-direction:row;">
+<div align="center">
     <a href="mailto:ds10x2@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ds10x2@gmail.com"/></a>&nbsp 
+    <a href="https://velog.io/@ds10x2/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>&nbsp 
 </div>
 
 ## 🔎 Skill set
 
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
 <p><strong>Language</strong></p>
 <div>
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
@@ -18,12 +20,17 @@
 <br/>
 <p><strong>Backend</strong></p>
 <div>
+       <div>
        <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
        <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
        <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge"> 
        <img src="https://img.shields.io/badge/mybatis-000000?style=for-the-badge"> 
+       </div>
+       <div>
+       <img src="https://img.shields.io/badge/fastAPI-009688?style=for-the-badge&logo=fastAPI&logoColor=white">
        <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
        <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+       </div>
 </div>
 <br/>
 <p><strong>Database</strong></p>
@@ -40,7 +47,6 @@
        <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 </div>
-</div>
 <br/>
 <p><strong>etc</strong></p>
 <div>
@@ -49,13 +55,16 @@
        <img src="https://img.shields.io/badge/opengl-5586A4?style=for-the-badge&logo=opengl&logoColor=white">
        <img src="https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
 </div>
-</div>
 
 ## 🌠Algorithm
+
 <div align="center">
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wcidf3923" width="500rem" />
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7FC8EE&height=150&section=footer" />
+
+</div>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ds10x2)](https://github.com/ds10x2/github-readme-stats)
 -->
@@ -72,4 +81,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
