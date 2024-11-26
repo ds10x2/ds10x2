@@ -3,10 +3,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Gowun+Dodum&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!)
 
-**📞 Contact**
-
 <div align="center">
-    <a href="mailto:ds10x2@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ds10x2@gmail.com"/></a>&nbsp 
+    <a href="mailto:ds10x2@gmail.com"><img src="https://img.shields.io/badge/ds10x2@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ds10x2@gmail.com"/></a>&nbsp 
     <a href="https://velog.io/@ds10x2/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>&nbsp 
 </div>
 
