@@ -68,7 +68,11 @@
 
 ---
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/ds10x2"/>
+<img
+  src="https://render.gitanimals.org/farms/ds10x2"
+  width="1200"
+  height="300"
+/>
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7FC8EE&height=150&section=footer" />
