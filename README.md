@@ -62,6 +62,11 @@
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wcidf3923" width="500rem" />
 </div>
 
+---
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/ds10x2?pet-id=1" width="1000" height="120"/>
+</a>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7FC8EE&height=150&section=footer" />
 
 </div>
