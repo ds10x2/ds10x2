@@ -1,16 +1,16 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7FC8EE&height=150&section=header" />
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/ds10x2?pet-id=1" width="1000" height="120"/>
-</a>
-
 **📞 Contact**
 
 <div align="center">
     <a href="mailto:ds10x2@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ds10x2@gmail.com"/></a>&nbsp 
     <a href="https://velog.io/@ds10x2/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>&nbsp 
 </div>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/ds10x2?pet-id=1" width="1000" height="120"/>
+</a>
 
 </br>
 
