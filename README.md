@@ -66,7 +66,7 @@
 </br>
 
 <div align="center">
-   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wcidf3923" width="500rem" />
+   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wcidf3923" width="200rem" />
 </div>
 
 
