@@ -1,6 +1,10 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7FC8EE&height=150&section=header" />
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/ds10x2?pet-id=1" width="1000" height="120"/>
+</a>
+
 <h2> 📞 Contact </h2>
 
 <div align="center">
@@ -64,7 +68,7 @@
 
 ---
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/ds10x2?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/ds10x2"/>
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7FC8EE&height=150&section=footer" />
