@@ -12,6 +12,8 @@
     <a href="https://velog.io/@ds10x2/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>&nbsp 
 </div>
 
+</br>
+
 **🔎 Skill set**
 
 <p><strong>Language</strong></p>
@@ -21,7 +23,7 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
 </div>
-<br/>
+</br>
 <p><strong>Backend</strong></p>
 <div>
        <div>
@@ -36,7 +38,7 @@
        <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
        </div>
 </div>
-<br/>
+</br>
 <p><strong>Database</strong></p>
 <div>
        <img src="https://img.shields.io/badge/mysql-4479a1?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -44,7 +46,7 @@
        <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"> 
         <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> 
 </div>
-<br/>
+</br>
 <p><strong>Infra/development</strong></p>
 <div>
        <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -52,7 +54,7 @@
        <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 </div>
-<br/>
+</br>
 <p><strong>etc</strong></p>
 <div>
        <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge">
