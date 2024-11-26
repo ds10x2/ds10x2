@@ -5,14 +5,14 @@
   <img src="https://render.gitanimals.org/lines/ds10x2?pet-id=1" width="1000" height="120"/>
 </a>
 
-<h2> 📞 Contact </h2>
+**📞 Contact**
 
 <div align="center">
     <a href="mailto:ds10x2@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ds10x2@gmail.com"/></a>&nbsp 
     <a href="https://velog.io/@ds10x2/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>&nbsp 
 </div>
 
-<h2> 🔎 Skill set </h2>
+**🔎 Skill set**
 
 <p><strong>Language</strong></p>
 <div>
@@ -60,20 +60,12 @@
        <img src="https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
 </div>
 
-<h2> 🌠Algorithm </h2>
+</br>
 
 <div align="center">
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wcidf3923" width="500rem" />
 </div>
 
----
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/ds10x2"
-  width="1200"
-  height="300"
-/>
-</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7FC8EE&height=150&section=footer" />
 
