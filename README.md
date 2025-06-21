@@ -3,15 +3,24 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Gowun+Dodum&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!)
 
+<!--
 <div align="center">
     <a href="mailto:ds10x2@gmail.com"><img src="https://img.shields.io/badge/ds10x2@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ds10x2@gmail.com"/></a>&nbsp 
     <a href="https://velog.io/@ds10x2/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>&nbsp 
 </div>
+-->
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/ds10x2?pet-id=1" width="1000" height="120"/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ds10x2&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/ds10x2?pet-id=724078808513746098"
+    width="600"
+    height="120"
+  />
 </a>
+  
 
+<!--
 </br>
 
 <p><strong>Language</strong></p>
@@ -68,6 +77,8 @@
 
 
 </div>
+
+-->
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ds10x2)](https://github.com/ds10x2/github-readme-stats)
 -->
