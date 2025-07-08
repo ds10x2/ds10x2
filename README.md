@@ -6,12 +6,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chiron+Sung+HK&size=15&duration=1500&pause=5000&color=000000&center=true&vCenter=true&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!)](https://git.io/typing-svg)
 <div>
-    <a href="https://velog.io/@ds10x2/">
-      <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/>
-    </a>
-    <a href="mailto:ds10x2@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=gmail&logoColor=white"/>
-    </a>
+    <a href="https://velog.io/@ds10x2/"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white"/></a>
+    <a href="mailto:ds10x2@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=gmail&logoColor=white"/></a>
 </div>
 
 <h6 align="center">
